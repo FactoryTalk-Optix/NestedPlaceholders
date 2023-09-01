@@ -1,0 +1,8 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=824091f8a5b770707cb998380e88d254
+  Type: BaseDataVariableType
+  DataType: Double
+  Value: 15.15648654
