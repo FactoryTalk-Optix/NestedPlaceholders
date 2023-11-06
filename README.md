@@ -1,3 +1,3 @@
 # Nested Placeholders
 
-Demonstrates how to nest placehodlers in Advanced DynamicLinks
+Demonstrates how to nest placeholders in Advanced DynamicLinks
